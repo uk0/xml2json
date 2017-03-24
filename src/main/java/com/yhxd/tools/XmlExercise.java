@@ -54,8 +54,7 @@ public class XmlExercise {
     /**
      * 将xml字符串<STRONG>转换</STRONG>为JSON字符串
      *
-     * @param xmlString
-     *            xml字符串
+     * @param string xml字符串
      * @return JSON<STRONG>对象</STRONG>
      *
      * @deprecated 方法默认会去掉<xml></xml>
